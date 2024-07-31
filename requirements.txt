@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+transformers
+pydantic
+PyPDF2
+python-docx
+pyt
+torch 
+torchvision 
+torchaudio
